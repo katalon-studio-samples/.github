@@ -1,12 +1,3 @@
-## Hi there 👋
+# Katalon Samples Repository
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the Katalon Sample repository. Here you can find code samples for Katalon Studio and for the Katalon Platform. These projects are offered as is to the community, but we are always eager to hear your feedback. If you have questions about or issues with a project, feel free to open a GitHub issue. PRs are welcome, as well.
